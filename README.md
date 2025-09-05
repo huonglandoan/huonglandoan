@@ -23,7 +23,7 @@ Data preprocessing & visualization
 Passion for innovation & problem-solving
 
 📫 Connect with me
-💼 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BO8zWwiIeQv2%2FBTWw7je%2B6g%3D%3D)]
+💼 LinkedIn: https://www.linkedin.com/in/lan-đoàn-thị-hương-b6b690319/
 🌐 Facebook: https://www.facebook.com/huong.lan.ddoan/
 ✉️ Email: lan.doanhuonglan@gmail.com
 
