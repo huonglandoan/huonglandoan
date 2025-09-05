@@ -1,5 +1,4 @@
 
-**huonglandoan/huonglandoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Welcome to my page 🌸 
 Hi there I'm Peanut!
 🌸 Passionate developer | Creative thinker | Lifelong learner 🌸
@@ -24,7 +23,9 @@ Passion for innovation & problem-solving
 
 📫 Connect with me
 💼 LinkedIn: https://www.linkedin.com/in/lan-đoàn-thị-hương-b6b690319/
+
 🌐 Facebook: https://www.facebook.com/huong.lan.ddoan/
+
 ✉️ Email: lan.doanhuonglan@gmail.com
 
 ✨ Every project here reflects not just code, but also my progress, passion, and vision for the future. ✨
