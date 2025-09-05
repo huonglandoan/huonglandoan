@@ -1,6 +1,7 @@
+<h1 align="center"> 
+  👋 Welcome to my page! 🌸 Hi there I'm Peanut!
+</h1>
 
-Welcome to my page 🌸 
-Hi there I'm Peanut!
 🌸 Passionate developer | Creative thinker | Lifelong learner 🌸
 
 I'm a Computer Science student at Ho Chi Minh City University of Technology (HCMUT) and an aspiring Computer Vision engineer passionate about teaching machines to see and understand the world. Although I’m still at the beginning of my journey, I’m driven by ambition and curiosity. My goal is to grow into a skilled AI Engineer who builds impactful solutions while continuously learning along the way. Every project here reflects not only code, but also my progress, passion, and vision for the future. 🚀
