@@ -11,37 +11,56 @@ Fundamentals of Computer Vision (image processing, object detection)
 Deep Learning with PyTorch & TensorFlow
 Research papers & hands-on tutorials in AI and CV
 
-🎯 Future Projects (Coming Soon)
-🖼️ Image classification with CNNs
-👁️ Object detection using YOLO
-🤖 AI applications for real-world problems
+## 🎯 Future Projects (Coming Soon)
+- 🖼️ **Image Classification with CNNs** – Build models that classify images into categories.  
+- 👁️ **Object Detection using YOLO** – Fine-tune pretrained models for custom datasets.  
+- 🧠 **Image Segmentation with U-Net** – Teaching AI to separate objects within an image.  
+- 🎙️ **Speech Recognition with Deep Learning** – Explore how machines can understand human voice.  
+- 💬 **Natural Language Processing (NLP)** – Simple chatbot or sentiment analysis.  
+- 🧾 **Document OCR with AI** – Extracting text and information from scanned documents.  
+- 🧑‍⚕️ **Medical Imaging Analysis** – Applying CV to assist healthcare (X-ray/MRI classification).  
+- 🚗 **Autonomous Driving Simulation** – Experimenting with lane detection and object tracking.  
 
-💻 Skills & Interests
-Programming: Python, C++
-AI & Machine Learning
-Data preprocessing & visualization
-Passion for innovation & problem-solving
+---
 
 ## 🛠️ Languages & Frameworks  
 
 <p align="center">
   
   <!-- Programming Languages -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   
   <!-- AI / ML Frameworks -->
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   
   <!-- Tools -->
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 📊 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
 📫 Connect with me
 💼 LinkedIn: https://www.linkedin.com/in/lan-đoàn-thị-hương-b6b690319/
 
