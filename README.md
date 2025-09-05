@@ -53,6 +53,7 @@ Research papers & hands-on tutorials in AI and CV
 
 ---
 📫 Connect with me
+
 💼 LinkedIn: https://www.linkedin.com/in/lan-đoàn-thị-hương-b6b690319/
 
 🌐 Facebook: https://www.facebook.com/huong.lan.ddoan/
