@@ -50,7 +50,7 @@ High-performance Backend (Go, Java Spring Boot, and Advanced SQL)
 
 📊 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huonglandoan&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[huonglandoan](https://github.com/huonglandoan)&layout=compact&theme=radical" />
 </p>
 
 📫 Connect with me
